@@ -1,5 +1,5 @@
 ## Docker CI/CD with CircleCI, DockerHub, Tutum & AWS
-------------
+
 [![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow)
 - [x] CI/CD with CircleCI 
 - [x] Github
@@ -8,7 +8,6 @@
 - [x] AWS
 
 ### The flow:
-------------
 
 My mac terminal (App) --> GitHub (Code repo) --> CircleCI (Integration Testing) --> DockerHub (Build) --> Tutum (Service, Nodes) --> AWS (Deploy)
 
