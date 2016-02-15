@@ -1,6 +1,7 @@
 ## Docker CI/CD with CircleCI, DockerHub, Tutum & AWS
 
-[![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/gunjan5/MemFlash/blob/master/LICENSE)
+[![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow) 
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/gunjan5/Docker-CI-CD-Workflow/blob/master/LICENSE)
 - [x] CI/CD with CircleCI 
 - [x] Github
 - [x] DockerHub
