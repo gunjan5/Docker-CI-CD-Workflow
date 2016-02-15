@@ -1,8 +1,6 @@
-[![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow)
-
-# Docker CI/CD /w CircleCI, Tutum and AWS
+## Docker CI/CD with CircleCI, DockerHub, Tutum & AWS
 ------------
-
+[![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow)
 - [x] CI/CD with CircleCI 
 - [x] Github
 - [x] DockerHub
