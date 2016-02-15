@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=svg)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow)
+[![CircleCI](https://img.shields.io/circleci/project/BrightFlair/PHP.Gt.svg)]() [![Circle CI](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow.svg?style=svg)](https://circleci.com/gh/gunjan5/Docker-CI-CD-Workflow)
 
 # Docker CI/CD /w CircleCI, Tutum and AWS
 =======================================
