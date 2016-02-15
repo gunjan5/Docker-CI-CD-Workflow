@@ -2,7 +2,7 @@
   "name": "hello-CircleCI",
   "private": true,
   "version": "0.0.1",
-  "description": "Docker CI/CD workflow with CircleCI, AWS, Tutum",
+  "description": "Docker CI-CD workflow with CircleCI, AWS, Tutum",
   "main": "app.js",
   "author": "Gunjan Patel <gunjanpatel.v@gmail.com>",
   "license": "iono",
