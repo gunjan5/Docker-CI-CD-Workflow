@@ -1,0 +1,15 @@
+{
+  "name": "hello-CircleCI",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Docker CI/CD workflow with CircleCI, AWS, Tutum",
+  "main": "app.js",
+  "author": "Gunjan Patel <gunjanpatel.v@gmail.com>",
+  "license": "iono",
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}

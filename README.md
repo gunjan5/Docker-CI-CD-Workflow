@@ -1,2 +1,8 @@
-# Docker-CI-CD-Workflow
-Docker CI/CD w/ CircleCI, Github, Dockerhub, Tutum, AWS
+Docker CI/CD /w CircleCI, Tutum and AWS
+=======================================
+
+-CI/CD with CircleCI 
+-Github
+-DockerHub
+-Tutum
+-AWS
